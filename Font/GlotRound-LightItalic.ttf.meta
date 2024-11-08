@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0b901c96e7a31e549bd51f855295e41d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Glot Round
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b55b8cbb13dabe3419a9e50ef42d9909, type: 3}
+  - {fileID: 12800000, guid: 7628701ab166ea04f88175469cf8e3a4, type: 3}
+  - {fileID: 12800000, guid: e3ca32958d4cc7645a8b62314e8de3b6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
