@@ -1,0 +1,14 @@
+{
+    "name": "com.sotatek.base-mobile-game",
+    "version": "1.0.0",
+    "displayName": "Base Mobile Game",
+    "description": "Quick set up a base game for vertical layout mobile platform",
+    "unity": "2020.3",
+    "dependencies": {
+   },
+    "author": {
+      "name": "Quy Nguyen",
+      "email": "unity@example.com",
+      "url": "https://www.unity3d.com"
+    }
+  }
